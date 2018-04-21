@@ -1,6 +1,14 @@
+
 # Wwwroot
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
+
+# Packages Installed
+
+primeng - UI framework such as modal, panel, diaglog etc..  
+@ng-idle/core  - Detect browser inactivity  
+angular2-jwt  - JWT token validator  
+font-awesome  - Icons  
 
 ## Development server
 

@@ -8,7 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 primeng - UI framework such as modal, panel, diaglog etc..  
 @ng-idle/core  - Detect browser inactivity  
 angular2-jwt  - JWT token validator and verifier  
-font-awesome  - Icons and classes 
+font-awesome  - Icons and classes for buttons and others 
 
 ## Development server
 

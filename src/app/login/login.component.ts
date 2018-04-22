@@ -28,7 +28,10 @@ export class LoginComponent implements OnInit {
   }
 
   ngOnInit() {
+    // need to call api here
+    // to determine api heartbeat
 
+    
     this.user = {
       name: 'frank',
       password: '123456789'

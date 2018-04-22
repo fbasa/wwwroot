@@ -36,6 +36,8 @@ export class LoginComponent implements OnInit {
   }
 
   validate(e){
+    // call service to validate user
+    // then redirect to dashboard when authenticated
     this.router.navigate(['/dashboard']);
   }
 }

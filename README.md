@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Packages Installed
 
-primeng - UI framework such as modal, panel, diaglog etc..  
+primeng - UI framework such as modal, panel, dialog etc..  
 @ng-idle/core  - Detect browser inactivity  
 angular2-jwt  - JWT token validator and verifier  
 font-awesome  - Icons and classes for buttons and others 

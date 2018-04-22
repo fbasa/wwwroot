@@ -37,7 +37,8 @@ export class LayoutComponent implements OnInit {
 
   sidebarState:string = 'in';
  
-  toggleMenu() {
+  // toggle sidebar in/out
+  toggleSidebar() {
     this.sidebarState = this.sidebarState === 'out' ? 'in' : 'out';
   }
 
